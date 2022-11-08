@@ -1,0 +1,7 @@
+Simulator the fECDSA protocol
+
+Run main.py to simulate creation of blocks in the blockchain, using the fECDSA protocol.
+
+NOTE #1: This is intended to be a proof-of-concept implementation, hence, we do not claim any type of cryptographic security for the implementation of the employed algorithms.
+NOTE #2: The code simulates only the logical steps to create blocks, and not the interaction between miners 
+NOTE #3: The code works only if the folder Blocks exists
